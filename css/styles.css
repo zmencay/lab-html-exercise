@@ -62,6 +62,14 @@ body {
     font-family: var(--npm-font-family);
 }
 
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
 /* ==============================
    Object: Buttons
 ================================= */
